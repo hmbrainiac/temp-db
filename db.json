@@ -1,11 +1,21 @@
 {
-  "posts": [
+  "tutors": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello",
+      "cityId": 
     }
   ],
-  "profile": {
+  "cities": [
+      {
+     "id" :
     "name": "typicode"
-  }
+   }
+  ],
+  "students":[
+  
+  ],
+  "tutor-student":[
+  
+  ]
 }
