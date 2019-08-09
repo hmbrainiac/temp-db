@@ -2,20 +2,207 @@
   "tutors": [
     {
       "id": 1,
-      "name": "hello",
-      "cityId": 
+      "name": "James Adjei",
+      "cityId": 1
+    },
+    {
+      "id": 2,
+      "name": "James Asare",
+      "cityId": 2
+    },
+    {
+      "id": 3,
+      "name": "Isaac Adjei",
+      "cityId": 3
+    },
+    {
+      "id": 4,
+      "name": "Gifty Adjei",
+      "cityId": 1
+    },
+    {
+      "id": 5,
+      "name": "Mary Adjei",
+      "cityId": 2
+    },
+    {
+      "id": 6,
+      "name": "Akosua Adjei",
+      "cityId": 1
+    },
+    {
+      "id": 7,
+      "name": "Willson Adjei",
+      "cityId": 2
+    },
+    {
+      "id": 8,
+      "name": "James Koomson",
+      "cityId": 3
+    },
+    {
+      "id": 9,
+      "name": "Bright Ameyaw",
+      "cityId": 2
+    },
+    {
+      "id": 10,
+      "name": "Juda Adjei",
+      "cityId": 2
+    },
+    {
+      "id": 11,
+      "name": "Jones Adjei",
+      "cityId": 1
+    },
+    {
+      "id": 12,
+      "name": "Roland Adjei",
+      "cityId": 2
+    },
+    {
+      "id": 13,
+      "name": "Harper Adjei",
+      "cityId": 2
+    },
+    {
+      "id": 14,
+      "name": "Niki Adjei",
+      "cityId": 2
+    },
+    {
+      "id": 15,
+      "name": "Samuel Adjei",
+      "cityId": 1
+    },
+    {
+      "id": 16,
+      "name": "Winnifred Adjei",
+      "cityId": 1
+    },
+    {
+      "id": 17,
+      "name": "Eric Adjei",
+      "cityId": 1
+    },
+    {
+      "id": 18,
+      "name": "Daniel Adjei",
+      "cityId": 3
+    },
+    {
+      "id": 19,
+      "name": "Daniel Akoto",
+      "cityId": 3
+    },
+    {
+      "id": 20,
+      "name": "Korah Adjei",
+      "cityId": 3
+    },
+    {
+      "id": 21,
+      "name": "Joy Adjei",
+      "cityId": 2
+    },
+    {
+      "id": 22,
+      "name": "James Jones",
+      "cityId": 2
+    },
+    {
+      "id": 23,
+      "name": "John Jonnes",
+      "cityId": 2
+    },    {
+      "id": 1,
+      "name": "Danny Mathews",
+      "cityId": 1
+    },
+    {
+      "id": 1,
+      "name": "Frank Agyekum",
+      "cityId": 1
     }
   ],
   "cities": [
-      {
-     "id" :1,
-    "name": "typicode"
-   }
+    {
+      "id" :1,
+      "name": "Liverpool"
+    },
+    {
+      "id" :2,
+      "name": "London"
+    },
+    {
+      "id" :3,
+      "name": "Manchester"
+    }
+
   ],
   "students":[
-  
+    {
+      "studentId":1,
+      "name":"Samuel Adjei"
+    },
+    {
+      "studentId":2,
+      "name":"Derrick Kudjoe"
+    },
+    {
+      "studentId":3,
+      "name":"Derrick Kudjoe"
+    },
+    {
+      "studentId":4,
+      "name":"Mary Kudjoe"
+    }    
   ],
   "tutor-student":[
+    {
+      "studentId":1,
+      "tutorId":1
+    },
+    {
+      "studentId":1,
+      "tutorId":2
+    },
+    {
+      "studentId":2,
+      "tutorId":3
+    },
+    {
+      "studentId":1,
+      "tutorId":13
+    },
+    {
+      "studentId":1,
+      "tutorId":3
+    },
+    {
+      "studentId":1,
+      "tutorId":4
+    },
+    {
+      "studentId":2,
+      "tutorId":1
+    },
+    {
+      "studentId":3,
+      "tutorId":2
+    },
+    {
+      "studentId":3,
+      "tutorId":5
+    },
+    {
+      "studentId":3,
+      "tutorId":8
+    },
+    {
+      "studentId":4,
+      "tutorId":8
+    }
   
   ]
 }
